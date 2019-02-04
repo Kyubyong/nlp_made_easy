@@ -1,3 +1,6 @@
-# Subword Segmentation Techniques
+# NLP Made Easy
 
-Explains the differences among BPE ([subword-nmt](https://github.com/rsennrich/subword-nmt)), [SentencePiece](https://github.com/google/sentencepiece), and [Bert tokenizer](https://github.com/google-research/bert).
+Let's look at NLP building blocks in a simpler, easy manner.
+
+* [Subword Segmentation Techniques](Subword%20Segmentation%20Techniques.ipynb)
+* [Beam decode](Beam_decode.ipynb)
