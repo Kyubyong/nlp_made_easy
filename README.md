@@ -9,3 +9,6 @@ Try to explain NLP building blocks in a simpler manner.
 * [PyTorch seq2seq template based on the g2p task](Work in progress)
 * [Attention mechanism](Work in progress)
 * POS tagging through Bert fine-tuning (Work in progress)
+* Padding and masking(WIP)
+* Simple dropout illustration (WIP)
+* Ngram LM vs. rnnlm(WIP)
