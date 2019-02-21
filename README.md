@@ -8,3 +8,4 @@ Try to explain NLP building blocks in a simpler manner.
 * [Tensorflow seq2seq template based on the g2p task](Tensorflow%20seq2seq%20template%20based%20on%20g2p.ipynb)
 * [PyTorch seq2seq template based on the g2p task](Work in progress)
 * [Attention mechanism](Work in progress)
+* POS tagging through Bert fine-tuning (Work in progress)
