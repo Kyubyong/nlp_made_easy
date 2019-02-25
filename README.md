@@ -9,6 +9,6 @@ Try to explain NLP building blocks in a simpler manner.
 * [PyTorch seq2seq template based on the g2p task](Work in progress)
 * [Attention mechanism](Work in progress)
 * POS tagging through Bert fine-tuning (Work in progress)
-* Padding and masking(WIP)
-* Simple dropout illustration (WIP)
+* [Dropout in a minute](Dropout_in_a_minute.ipynb)
+  * Dropout is arguably the most popular regularization technique in deep learning. Let's check again how it work.
 * Ngram LM vs. rnnlm(WIP)
