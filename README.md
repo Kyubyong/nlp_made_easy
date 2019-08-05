@@ -18,3 +18,5 @@ Simple code notes for explaining NLP building blocks
 * [Dropout in a minute](Dropout%20in%20a%20minute.ipynb)
   * Dropout is arguably the most popular regularization technique in deep learning. Let's check again how it work.
 * Ngram LM vs. rnnlm(WIP)
+* [Data Augmentation for Quora Question Pairs](Data%20Augmentation%20for%20Quora%20Question%20Pairs.ipynb)
+  * Let's see if it's effective to augment training data in the task of quora question pairs.
